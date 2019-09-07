@@ -4,8 +4,4 @@ THis is a simple readme file
 
 ## Heading 2
 
-<<<<<<< HEAD
-
-=======
-
->>>>>>> very-bad
+Just something going on
