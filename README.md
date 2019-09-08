@@ -1,6 +1,8 @@
 <<<<<<< HEAD
 # GitHub - Test Repository
 
+Edit on example branch
+
 THis is a simple readme file
 
 ## Heading 2
